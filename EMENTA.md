@@ -8,7 +8,7 @@
 
 - JS
 
-- PRÁTICANDO
+- PRATICANDO
 
 <p>Depois de termos visto isso tudo vamos práticar um pouquinho. Topa?!</p>
 
