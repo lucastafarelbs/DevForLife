@@ -13,7 +13,7 @@
 - JS
 	- Exercícios
   
-- PRÁTICANDO
+### PRÁTICANDO
 
 <p>Depois de termos visto isso tudo vamos práticar um pouquinho. Topa?!</p>
 
