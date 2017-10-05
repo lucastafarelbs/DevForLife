@@ -3,6 +3,7 @@
 #### Básico 
 
 - Lógica de Programação
+	- Exercícios
 
 - HTML
 	- Exercícios
